@@ -14,7 +14,8 @@ string command;
 mutex logmtx;
 
 /**
- * wojiaodpf哦哦哦,修改了哦,再次修改啊,lalalala
+ * 测试测试！服务器看到的吗？
+ * 
  **/
 int main(int argc, char* argv[]){
     // display version info if no argument is given
